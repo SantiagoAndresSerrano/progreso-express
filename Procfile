@@ -1,3 +1,0 @@
-
-web: java -Dserver.port=$PORT -jar target/heroku-demo-0.0.1-SNAPSHOT.jar
-
